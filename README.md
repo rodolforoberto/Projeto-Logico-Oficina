@@ -18,4 +18,4 @@ As cláusulas podem estar presentes em mais de uma query
 O projeto deverá ser adicionado a um repositório do Github para futura avaliação do desafio de projeto. Adicione ao Readme a descrição do projeto lógico para fornecer o contexto sobre seu esquema lógico apresentado.
 
 # Resposta do Desafio
-[]()
+[Desafio Projeto Lógico Oficina](https://github.com/rodolforoberto/Projeto-Logico-Oficina/tree/main/Projeto%20L%C3%B3gico%20-%20Oficina)
